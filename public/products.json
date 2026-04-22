@@ -1,0 +1,4419 @@
+[
+  {
+    "id": 1,
+    "name": "Xiaomi 17 Ultra",
+    "imageKey": "sp1",
+    "price": 33990000,
+    "idcategory": 1
+  },
+  {
+    "id": 2,
+    "name": "Xiaomi 17 Pro Max",
+    "imageKey": "sp2",
+    "price": 30990000,
+    "idcategory": 1
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi 17 Pro",
+    "imageKey": "sp3",
+    "price": 27990000,
+    "idcategory": 1
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 17",
+    "imageKey": "",
+    "price": 23990000,
+    "idcategory": 1
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 15 Ultra",
+    "imageKey": "",
+    "price": 32990000,
+    "idcategory": 1
+  },
+  {
+    "id": 6,
+    "name": "Xiaomi 15 Pro",
+    "imageKey": "",
+    "price": 26990000,
+    "idcategory": 1
+  },
+  {
+    "id": 7,
+    "name": "Xiaomi 15",
+    "imageKey": "",
+    "price": 21990000,
+    "idcategory": 1
+  },
+  {
+    "id": 8,
+    "name": "Xiaomi 14 Ultra",
+    "imageKey": "",
+    "price": 29990000,
+    "idcategory": 1
+  },
+  {
+    "id": 9,
+    "name": "Xiaomi 14 Pro",
+    "imageKey": "",
+    "price": 24990000,
+    "idcategory": 1
+  },
+  {
+    "id": 10,
+    "name": "Xiaomi 14",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1
+  },
+  {
+    "id": 11,
+    "name": "Xiaomi 17T Pro",
+    "imageKey": "",
+    "price": 21990000,
+    "idcategory": 1
+  },
+  {
+    "id": 13,
+    "name": "Xiaomi 15T Pro",
+    "imageKey": "",
+    "price": 20990000,
+    "idcategory": 1
+  },
+  {
+    "id": 14,
+    "name": "Xiaomi 15T",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1
+  },
+  {
+    "id": 15,
+    "name": "Xiaomi 14T Pro",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1
+  },
+  {
+    "id": 16,
+    "name": "Xiaomi 14T",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 18,
+    "name": "Xiaomi MIX Fold 4",
+    "imageKey": "",
+    "price": 44990000,
+    "idcategory": 1
+  },
+  {
+    "id": 19,
+    "name": "Xiaomi MIX Flip 2",
+    "imageKey": "",
+    "price": 28990000,
+    "idcategory": 1
+  },
+  {
+    "id": 20,
+    "name": "Xiaomi MIX Flip",
+    "imageKey": "",
+    "price": 26990000,
+    "idcategory": 1
+  },
+  {
+    "id": 21,
+    "name": "Xiaomi Civi 5 Pro",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 1
+  },
+  {
+    "id": 23,
+    "name": "Redmi K90 Ultra",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1
+  },
+  {
+    "id": 25,
+    "name": "Redmi K90",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 1
+  },
+  {
+    "id": 27,
+    "name": "Redmi K80 Ultra",
+    "imageKey": "",
+    "price": 18990000,
+    "idcategory": 1
+  },
+  {
+    "id": 28,
+    "name": "Redmi K80 Pro",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 29,
+    "name": "Redmi K80",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 31,
+    "name": "Redmi K70 Ultra",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1
+  },
+  {
+    "id": 32,
+    "name": "Redmi K70 Pro",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 1
+  },
+  {
+    "id": 33,
+    "name": "Redmi K70",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 34,
+    "name": "Redmi K70E",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 35,
+    "name": "Xiaomi Redmi Note 15 Pro Plus",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 36,
+    "name": "Xiaomi Redmi Note 15 Pro",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 37,
+    "name": "Xiaomi Redmi Note 15",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 38,
+    "name": "Xiaomi Redmi Note 14 Pro Plus",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 39,
+    "name": "Xiaomi Redmi Note 14 Pro",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 40,
+    "name": "Xiaomi Redmi Note 14",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 41,
+    "name": "Xiaomi Redmi Note 13 Pro Plus",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 42,
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "imageKey": "",
+    "price": 8490000,
+    "idcategory": 1
+  },
+  {
+    "id": 43,
+    "name": "Xiaomi Redmi Note 13",
+    "imageKey": "",
+    "price": 6490000,
+    "idcategory": 1
+  },
+  {
+    "id": 44,
+    "name": "Redmi Turbo 5 Pro",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 45,
+    "name": "Redmi Turbo 5",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 46,
+    "name": "Redmi Turbo 4 Pro",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 47,
+    "name": "Redmi Turbo 4",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 48,
+    "name": "Redmi Turbo 3",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 49,
+    "name": "Redmi 15",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 1
+  },
+  {
+    "id": 50,
+    "name": "Redmi 15C",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 1
+  },
+  {
+    "id": 51,
+    "name": "Redmi 14",
+    "imageKey": "",
+    "price": 4490000,
+    "idcategory": 1
+  },
+  {
+    "id": 52,
+    "name": "Redmi 14C",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 1
+  },
+  {
+    "id": 53,
+    "name": "Redmi 13",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 1
+  },
+  {
+    "id": 54,
+    "name": "Redmi 13C",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 1
+  },
+  {
+    "id": 55,
+    "name": "POCO F8 Pro",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1
+  },
+  {
+    "id": 56,
+    "name": "POCO F8",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 57,
+    "name": "POCO F7 Pro",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 58,
+    "name": "POCO F7",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 59,
+    "name": "POCO X8 Pro",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 60,
+    "name": "POCO X8",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 61,
+    "name": "POCO X7 Pro",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 62,
+    "name": "POCO X7",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 63,
+    "name": "POCO M8 Pro",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 64,
+    "name": "POCO M8",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 1
+  },
+  {
+    "id": 65,
+    "name": "POCO M7 Pro",
+    "imageKey": "",
+    "price": 6490000,
+    "idcategory": 1
+  },
+  {
+    "id": 66,
+    "name": "POCO M7",
+    "imageKey": "",
+    "price": 5490000,
+    "idcategory": 1
+  },
+  {
+    "id": 67,
+    "name": "POCO C85",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 1
+  },
+  {
+    "id": 68,
+    "name": "POCO C75",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 1
+  },
+  {
+    "id": 69,
+    "name": "POCO C65",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 1
+  },
+  {
+    "id": 70,
+    "name": "Vivo X300 Ultra",
+    "imageKey": "sp1",
+    "price": 33990000,
+    "idcategory": 1
+  },
+  {
+    "id": 71,
+    "name": "Vivo X300 Pro",
+    "imageKey": "sp2",
+    "price": 29990000,
+    "idcategory": 1
+  },
+  {
+    "id": 72,
+    "name": "Vivo X300 Pro Mini",
+    "imageKey": "sp3",
+    "price": 26990000,
+    "idcategory": 1
+  },
+  {
+    "id": 73,
+    "name": "Vivo X300",
+    "imageKey": "sp4",
+    "price": 23990000,
+    "idcategory": 1
+  },
+  {
+    "id": 74,
+    "name": "Vivo X300 FE",
+    "imageKey": "sp5",
+    "price": 19990000,
+    "idcategory": 1
+  },
+  {
+    "id": 75,
+    "name": "Vivo X300s",
+    "imageKey": "sp6",
+    "price": 24990000,
+    "idcategory": 1
+  },
+  {
+    "id": 76,
+    "name": "Vivo X200 Ultra",
+    "imageKey": "",
+    "price": 32990000,
+    "idcategory": 1
+  },
+  {
+    "id": 77,
+    "name": "Vivo X200 Pro",
+    "imageKey": "",
+    "price": 28990000,
+    "idcategory": 1
+  },
+  {
+    "id": 78,
+    "name": "Vivo X200 Pro Mini",
+    "imageKey": "",
+    "price": 25990000,
+    "idcategory": 1
+  },
+  {
+    "id": 79,
+    "name": "Vivo X200",
+    "imageKey": "",
+    "price": 22990000,
+    "idcategory": 1
+  },
+  {
+    "id": 80,
+    "name": "Vivo X200 FE",
+    "imageKey": "",
+    "price": 18990000,
+    "idcategory": 1
+  },
+  {
+    "id": 81,
+    "name": "Vivo X200s",
+    "imageKey": "",
+    "price": 23990000,
+    "idcategory": 1
+  },
+  {
+    "id": 82,
+    "name": "Vivo X100 Ultra",
+    "imageKey": "",
+    "price": 31990000,
+    "idcategory": 1
+  },
+  {
+    "id": 83,
+    "name": "Vivo X100 Pro",
+    "imageKey": "",
+    "price": 27990000,
+    "idcategory": 1
+  },
+  {
+    "id": 84,
+    "name": "Vivo X100",
+    "imageKey": "",
+    "price": 22990000,
+    "idcategory": 1
+  },
+  {
+    "id": 85,
+    "name": "Vivo X100s",
+    "imageKey": "",
+    "price": 23990000,
+    "idcategory": 1
+  },
+  {
+    "id": 86,
+    "name": "Vivo V60 5G",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 87,
+    "name": "Vivo V60e",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 88,
+    "name": "Vivo V60 Lite",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 89,
+    "name": "Vivo V60 Lite 5G",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 90,
+    "name": "Vivo V50 5G",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 91,
+    "name": "Vivo V50e",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 92,
+    "name": "Vivo V50 Lite",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 93,
+    "name": "Vivo V50 Lite 5G",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 94,
+    "name": "Vivo S50 5G",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 95,
+    "name": "Vivo S50 Pro Mini",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 98,
+    "name": "Vivo S40 5G",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 102,
+    "name": "Vivo T4 Pro 5G",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 103,
+    "name": "Vivo T4 5G",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 104,
+    "name": "Vivo T4x 5G",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 105,
+    "name": "Vivo T3 Pro 5G",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 106,
+    "name": "Vivo T3 5G",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 107,
+    "name": "Vivo T3x 5G",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 108,
+    "name": "Vivo T3 Lite 5G",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 109,
+    "name": "Vivo Y300 5G",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 110,
+    "name": "Vivo Y300 Plus 5G",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 111,
+    "name": "Vivo Y300 Pro",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 112,
+    "name": "Vivo Y300 Pro Plus",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 113,
+    "name": "Vivo Y300 GT",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 114,
+    "name": "Vivo Y200 5G",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 117,
+    "name": "Vivo Y200 GT",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 118,
+    "name": "Vivo Y200e 5G",
+    "imageKey": "",
+    "price": 6490000,
+    "idcategory": 1
+  },
+  {
+    "id": 119,
+    "name": "Vivo Y200i",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 120,
+    "name": "Vivo Y200t",
+    "imageKey": "",
+    "price": 7490000,
+    "idcategory": 1
+  },
+  {
+    "id": 121,
+    "name": "Vivo X Fold 5",
+    "imageKey": "",
+    "price": 46990000,
+    "idcategory": 1
+  },
+  {
+    "id": 122,
+    "name": "Vivo X Fold 4",
+    "imageKey": "",
+    "price": 44990000,
+    "idcategory": 1
+  },
+  {
+    "id": 123,
+    "name": "Vivo iQOO 15 Ultra",
+    "imageKey": "",
+    "price": 29990000,
+    "idcategory": 1
+  },
+  {
+    "id": 125,
+    "name": "Vivo iQOO 15",
+    "imageKey": "",
+    "price": 21990000,
+    "idcategory": 1
+  },
+  {
+    "id": 126,
+    "name": "Vivo iQOO 15 Mini",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1
+  },
+  {
+    "id": 127,
+    "name": "Vivo iQOO 13 Pro",
+    "imageKey": "",
+    "price": 23990000,
+    "idcategory": 1
+  },
+  {
+    "id": 128,
+    "name": "Vivo iQOO 13",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1
+  },
+  {
+    "id": 129,
+    "name": "Vivo iQOO Neo 11 5G",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 130,
+    "name": "Vivo iQOO Neo 11 Pro",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 131,
+    "name": "Vivo iQOO Neo 10 5G",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 132,
+    "name": "Vivo iQOO Neo 10 Pro",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 1
+  },
+  {
+    "id": 133,
+    "name": "Vivo iQOO Neo 10 Pro Plus",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1
+  },
+  {
+    "id": 134,
+    "name": "Vivo iQOO Neo 10R 5G",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 135,
+    "name": "Vivo iQOO Neo 10S",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 137,
+    "name": "Vivo iQOO Z11 Turbo",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 138,
+    "name": "Vivo iQOO Z11",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 139,
+    "name": "Vivo iQOO Z11x",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 140,
+    "name": "Vivo iQOO Z10 Turbo Pro",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 141,
+    "name": "Vivo iQOO Z10 Turbo",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 142,
+    "name": "Vivo iQOO Z10",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 143,
+    "name": "Vivo iQOO Z10x",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 144,
+    "name": "Vivo iQOO U6",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 1
+  },
+  {
+    "id": 145,
+    "name": "Vivo iQOO U5",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 1
+  },
+  {
+    "id": 146,
+    "name": "Vivo iQOO U5x",
+    "imageKey": "",
+    "price": 4490000,
+    "idcategory": 1
+  },
+  {
+    "id": 147,
+    "name": "Vivo iQOO U5e",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 1
+  },
+  {
+    "id": 148,
+    "name": "Oppo Find X9 Ultra",
+    "imageKey": "",
+    "price": 32990000,
+    "idcategory": 1
+  },
+  {
+    "id": 149,
+    "name": "Oppo Find X9 Pro",
+    "imageKey": "",
+    "price": 28990000,
+    "idcategory": 1
+  },
+  {
+    "id": 150,
+    "name": "Oppo Find X9",
+    "imageKey": "",
+    "price": 23990000,
+    "idcategory": 1
+  },
+  {
+    "id": 151,
+    "name": "Oppo Find X8 Ultra",
+    "imageKey": "",
+    "price": 31990000,
+    "idcategory": 1
+  },
+  {
+    "id": 152,
+    "name": "Oppo Find X8 Pro",
+    "imageKey": "",
+    "price": 27990000,
+    "idcategory": 1
+  },
+  {
+    "id": 153,
+    "name": "Oppo Find X8",
+    "imageKey": "",
+    "price": 22990000,
+    "idcategory": 1
+  },
+  {
+    "id": 154,
+    "name": "Oppo Find X7 Ultra",
+    "imageKey": "",
+    "price": 30990000,
+    "idcategory": 1
+  },
+  {
+    "id": 155,
+    "name": "Oppo Find X7",
+    "imageKey": "",
+    "price": 21990000,
+    "idcategory": 1
+  },
+  {
+    "id": 156,
+    "name": "Oppo Reno 15 Pro Plus 5G",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 157,
+    "name": "Oppo Reno 15 Pro 5G",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 158,
+    "name": "Oppo Reno 15 5G",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 160,
+    "name": "Oppo Reno 14 Pro 5G",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 161,
+    "name": "Oppo Reno 14 5G",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 164,
+    "name": "Oppo Reno 13 5G",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 168,
+    "name": "Oppo K13 Pro",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 169,
+    "name": "Oppo K13",
+    "imageKey": "",
+    "price": 8490000,
+    "idcategory": 1
+  },
+  {
+    "id": 170,
+    "name": "Oppo K13x",
+    "imageKey": "",
+    "price": 7490000,
+    "idcategory": 1
+  },
+  {
+    "id": 172,
+    "name": "Oppo K12",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 173,
+    "name": "Oppo K12x",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 174,
+    "name": "Oppo A5 Pro 5G",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 175,
+    "name": "Oppo A3 Pro 5G",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 176,
+    "name": "Oppo A3 5G",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 1
+  },
+  {
+    "id": 177,
+    "name": "Oppo A3x 5G",
+    "imageKey": "",
+    "price": 5490000,
+    "idcategory": 1
+  },
+  {
+    "id": 179,
+    "name": "Oppo A60",
+    "imageKey": "",
+    "price": 5490000,
+    "idcategory": 1
+  },
+  {
+    "id": 180,
+    "name": "Oppo A58",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 1
+  },
+  {
+    "id": 181,
+    "name": "Oppo A38",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 1
+  },
+  {
+    "id": 182,
+    "name": "Oppo A18",
+    "imageKey": "",
+    "price": 3290000,
+    "idcategory": 1
+  },
+  {
+    "id": 190,
+    "name": "Oppo Find N3 Flip",
+    "imageKey": "",
+    "price": 27990000,
+    "idcategory": 1
+  },
+  {
+    "id": 191,
+    "name": "Oppo Find N2",
+    "imageKey": "",
+    "price": 36990000,
+    "idcategory": 1
+  },
+  {
+    "id": 194,
+    "name": "OnePlus 15 Pro",
+    "imageKey": "",
+    "price": 26990000,
+    "idcategory": 1
+  },
+  {
+    "id": 195,
+    "name": "OnePlus 15",
+    "imageKey": "",
+    "price": 22990000,
+    "idcategory": 1
+  },
+  {
+    "id": 196,
+    "name": "OnePlus 13 Pro",
+    "imageKey": "",
+    "price": 25990000,
+    "idcategory": 1
+  },
+  {
+    "id": 197,
+    "name": "OnePlus 13",
+    "imageKey": "",
+    "price": 21990000,
+    "idcategory": 1
+  },
+  {
+    "id": 198,
+    "name": "OnePlus 13R",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1
+  },
+  {
+    "id": 199,
+    "name": "OnePlus 12",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1
+  },
+  {
+    "id": 200,
+    "name": "OnePlus Ace 5 Pro",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1
+  },
+  {
+    "id": 201,
+    "name": "OnePlus Ace 5",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 1
+  },
+  {
+    "id": 202,
+    "name": "OnePlus Ace 5V",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 203,
+    "name": "OnePlus Ace 3 Pro",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 204,
+    "name": "OnePlus Ace 3",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 205,
+    "name": "OnePlus Ace 3V",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 207,
+    "name": "OnePlus Nord 5",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 208,
+    "name": "OnePlus Nord 5 CE",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 209,
+    "name": "OnePlus Nord 4",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 210,
+    "name": "OnePlus Nord 4 CE",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 211,
+    "name": "OnePlus Nord CE4 Lite",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 212,
+    "name": "OnePlus Open 2",
+    "imageKey": "",
+    "price": 46990000,
+    "idcategory": 1
+  },
+  {
+    "id": 213,
+    "name": "OnePlus Open",
+    "imageKey": "",
+    "price": 43990000,
+    "idcategory": 1
+  },
+  {
+    "id": 215,
+    "name": "Realme GT 7",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 1
+  },
+  {
+    "id": 219,
+    "name": "Realme GT 5 Pro",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1
+  },
+  {
+    "id": 220,
+    "name": "Realme GT 5",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1
+  },
+  {
+    "id": 221,
+    "name": "Realme GT Neo 7",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1
+  },
+  {
+    "id": 222,
+    "name": "Realme GT Neo 7 SE",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 223,
+    "name": "Realme GT Neo 6",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 224,
+    "name": "Realme GT Neo 6 SE",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 225,
+    "name": "Realme GT Neo 5",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 226,
+    "name": "Realme 14 Pro Plus",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 227,
+    "name": "Realme 14 Pro",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 228,
+    "name": "Realme 14",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 229,
+    "name": "Realme 13 Pro Plus",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 230,
+    "name": "Realme 13 Pro",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 231,
+    "name": "Realme 13",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 232,
+    "name": "Realme 12 Pro Plus",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 233,
+    "name": "Realme 12 Pro",
+    "imageKey": "",
+    "price": 8490000,
+    "idcategory": 1
+  },
+  {
+    "id": 234,
+    "name": "Realme 12",
+    "imageKey": "",
+    "price": 6490000,
+    "idcategory": 1
+  },
+  {
+    "id": 235,
+    "name": "Realme C75",
+    "imageKey": "",
+    "price": 4490000,
+    "idcategory": 1
+  },
+  {
+    "id": 236,
+    "name": "Realme C67",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 1
+  },
+  {
+    "id": 237,
+    "name": "Realme C65",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 1
+  },
+  {
+    "id": 238,
+    "name": "Realme C63",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 1
+  },
+  {
+    "id": 239,
+    "name": "Realme C55",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 1
+  },
+  {
+    "id": 240,
+    "name": "Realme C53",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 1
+  },
+  {
+    "id": 241,
+    "name": "Realme GT Fold",
+    "imageKey": "",
+    "price": 39990000,
+    "idcategory": 1
+  },
+  {
+    "id": 242,
+    "name": "Realme Flip",
+    "imageKey": "",
+    "price": 26990000,
+    "idcategory": 1
+  },
+  {
+    "id": 243,
+    "name": "Samsung Galaxy S26 Ultra",
+    "imageKey": "",
+    "price": 35990000,
+    "idcategory": 1
+  },
+  {
+    "id": 244,
+    "name": "Samsung Galaxy S26 Plus",
+    "imageKey": "",
+    "price": 29990000,
+    "idcategory": 1
+  },
+  {
+    "id": 245,
+    "name": "Samsung Galaxy S26",
+    "imageKey": "",
+    "price": 25990000,
+    "idcategory": 1
+  },
+  {
+    "id": 246,
+    "name": "Samsung Galaxy S25 Ultra",
+    "imageKey": "",
+    "price": 34990000,
+    "idcategory": 1
+  },
+  {
+    "id": 247,
+    "name": "Samsung Galaxy S25 Plus",
+    "imageKey": "",
+    "price": 28990000,
+    "idcategory": 1
+  },
+  {
+    "id": 248,
+    "name": "Samsung Galaxy S25",
+    "imageKey": "",
+    "price": 24990000,
+    "idcategory": 1
+  },
+  {
+    "id": 249,
+    "name": "Samsung Galaxy S24 Ultra",
+    "imageKey": "",
+    "price": 32990000,
+    "idcategory": 1
+  },
+  {
+    "id": 250,
+    "name": "Samsung Galaxy S24 Plus",
+    "imageKey": "",
+    "price": 26990000,
+    "idcategory": 1
+  },
+  {
+    "id": 251,
+    "name": "Samsung Galaxy S24",
+    "imageKey": "",
+    "price": 22990000,
+    "idcategory": 1
+  },
+  {
+    "id": 252,
+    "name": "Samsung Galaxy S25 FE",
+    "imageKey": "",
+    "price": 18990000,
+    "idcategory": 1
+  },
+  {
+    "id": 253,
+    "name": "Samsung Galaxy S24 FE",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1
+  },
+  {
+    "id": 254,
+    "name": "Samsung Galaxy A57 5G",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 1
+  },
+  {
+    "id": 255,
+    "name": "Samsung Galaxy A37 5G",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 1
+  },
+  {
+    "id": 256,
+    "name": "Samsung Galaxy A56 5G",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 257,
+    "name": "Samsung Galaxy A36 5G",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 258,
+    "name": "Samsung Galaxy A26 5G",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 259,
+    "name": "Samsung Galaxy A17 5G",
+    "imageKey": "",
+    "price": 5490000,
+    "idcategory": 1
+  },
+  {
+    "id": 260,
+    "name": "Samsung Galaxy A16 5G",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 1
+  },
+  {
+    "id": 261,
+    "name": "Samsung Galaxy A07 5G",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 1
+  },
+  {
+    "id": 262,
+    "name": "Samsung Galaxy A06",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 1
+  },
+  {
+    "id": 263,
+    "name": "Samsung Galaxy A55 5G",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 264,
+    "name": "Samsung Galaxy A35 5G",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 265,
+    "name": "Samsung Galaxy A25 5G",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 1
+  },
+  {
+    "id": 266,
+    "name": "Samsung Galaxy A15 5G",
+    "imageKey": "",
+    "price": 5490000,
+    "idcategory": 1
+  },
+  {
+    "id": 267,
+    "name": "Samsung Galaxy M57 5G",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1
+  },
+  {
+    "id": 268,
+    "name": "Samsung Galaxy M37 5G",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 1
+  },
+  {
+    "id": 269,
+    "name": "Samsung Galaxy M56 5G",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1
+  },
+  {
+    "id": 270,
+    "name": "Samsung Galaxy M36 5G",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 1
+  },
+  {
+    "id": 271,
+    "name": "Samsung Galaxy M16 5G",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 1
+  },
+  {
+    "id": 272,
+    "name": "Samsung Galaxy M15 5G",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 1
+  },
+  {
+    "id": 274,
+    "name": "Samsung Galaxy Z Fold 7",
+    "imageKey": "",
+    "price": 44990000,
+    "idcategory": 1
+  },
+  {
+    "id": 275,
+    "name": "Samsung Galaxy Z Fold 6",
+    "imageKey": "",
+    "price": 41990000,
+    "idcategory": 1
+  },
+  {
+    "id": 276,
+    "name": "Samsung Galaxy Z Fold 5",
+    "imageKey": "",
+    "price": 38990000,
+    "idcategory": 1
+  },
+  {
+    "id": 278,
+    "name": "Samsung Galaxy Z Flip 7",
+    "imageKey": "",
+    "price": 27990000,
+    "idcategory": 1
+  },
+  {
+    "id": 279,
+    "name": "Samsung Galaxy Z Flip 6",
+    "imageKey": "",
+    "price": 25990000,
+    "idcategory": 1
+  },
+  {
+    "id": 280,
+    "name": "Samsung Galaxy Z Flip 5",
+    "imageKey": "",
+    "price": 23990000,
+    "idcategory": 1
+  },
+  {
+    "name": "Redmi Turbo 5 Max",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 1,
+    "id": 651
+  },
+  {
+    "name": "POCO F8 Ultra",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1,
+    "id": 652
+  },
+  {
+    "name": "POCO X8 Pro Max",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1,
+    "id": 653
+  },
+  {
+    "name": "Vivo Y300t",
+    "imageKey": "",
+    "price": 8490000,
+    "idcategory": 1,
+    "id": 654
+  },
+  {
+    "name": "Vivo X Fold 3",
+    "imageKey": "",
+    "price": 42990000,
+    "idcategory": 1,
+    "id": 655
+  },
+  {
+    "name": "Vivo X Fold 3 Pro 5G",
+    "imageKey": "",
+    "price": 44990000,
+    "idcategory": 1,
+    "id": 656
+  },
+  {
+    "name": "Vivo iQOO Neo 10S Pro",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1,
+    "id": 657
+  },
+  {
+    "name": "Oppo Reno 15 Pro Max 5G",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 1,
+    "id": 658
+  },
+  {
+    "name": "Oppo K13 Turbo Pro",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1,
+    "id": 659
+  },
+  {
+    "name": "Oppo Find N",
+    "imageKey": "",
+    "price": 34990000,
+    "idcategory": 1,
+    "id": 660
+  },
+  {
+    "name": "OnePlus 15T",
+    "imageKey": "",
+    "price": 23990000,
+    "idcategory": 1,
+    "id": 661
+  },
+  {
+    "name": "OnePlus 13T",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 1,
+    "id": 662
+  },
+  {
+    "name": "OnePlus Nord CE 5",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1,
+    "id": 663
+  },
+  {
+    "name": "Realme GT 7T",
+    "imageKey": "",
+    "price": 16990000,
+    "idcategory": 1,
+    "id": 664
+  },
+  {
+    "name": "Realme Neo 7",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 1,
+    "id": 665
+  },
+  {
+    "name": "Realme Neo 7 SE",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 1,
+    "id": 666
+  },
+  {
+    "name": "Realme Neo 7 Turbo",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 1,
+    "id": 667
+  },
+  {
+    "name": "Realme GT Neo Pro",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 1,
+    "id": 668
+  },
+  {
+    "id": 281,
+    "name": "Xiaomi Pad 7 Pro",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 2
+  },
+  {
+    "id": 282,
+    "name": "Xiaomi Pad 7",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 2
+  },
+  {
+    "id": 283,
+    "name": "Xiaomi Pad 6S Pro",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 2
+  },
+  {
+    "id": 284,
+    "name": "Xiaomi Pad 6 Pro",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 2
+  },
+  {
+    "id": 285,
+    "name": "Xiaomi Pad 6",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 2
+  },
+  {
+    "id": 286,
+    "name": "Xiaomi Pad 6 Max 14",
+    "imageKey": "",
+    "price": 14990000,
+    "idcategory": 2
+  },
+  {
+    "id": 288,
+    "name": "Xiaomi Redmi Pad Pro",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 2
+  },
+  {
+    "id": 289,
+    "name": "Xiaomi Redmi Pad",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 2
+  },
+  {
+    "id": 290,
+    "name": "Xiaomi Redmi Pad SE",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 2
+  },
+  {
+    "id": 291,
+    "name": "Xiaomi POCO Pad 2 Pro",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 2
+  },
+  {
+    "id": 292,
+    "name": "Xiaomi POCO Pad 2",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 2
+  },
+  {
+    "id": 293,
+    "name": "Xiaomi POCO Pad",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 2
+  },
+  {
+    "id": 294,
+    "name": "Vivo Pad 5 Pro",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 2
+  },
+  {
+    "id": 295,
+    "name": "Vivo Pad 5",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 2
+  },
+  {
+    "id": 296,
+    "name": "Vivo Pad 3 Pro",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 2
+  },
+  {
+    "id": 297,
+    "name": "Vivo Pad 3",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 2
+  },
+  {
+    "id": 298,
+    "name": "Vivo Pad 2",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 2
+  },
+  {
+    "id": 299,
+    "name": "Vivo Pad Air",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 2
+  },
+  {
+    "id": 300,
+    "name": "Vivo iQOO Pad 5 Pro",
+    "imageKey": "",
+    "price": 13990000,
+    "idcategory": 2
+  },
+  {
+    "id": 301,
+    "name": "Vivo iQOO Pad 5",
+    "imageKey": "",
+    "price": 10990000,
+    "idcategory": 2
+  },
+  {
+    "id": 302,
+    "name": "Vivo iQOO Pad 2 Pro",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 2
+  },
+  {
+    "id": 303,
+    "name": "Vivo iQOO Pad 2",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 2
+  },
+  {
+    "id": 304,
+    "name": "Vivo iQOO Pad Air",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 2
+  },
+  {
+    "id": 305,
+    "name": "Oppo Pad 3 Pro",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 2
+  },
+  {
+    "id": 306,
+    "name": "Oppo Pad 3",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 2
+  },
+  {
+    "id": 307,
+    "name": "Oppo Pad 2",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 2
+  },
+  {
+    "id": 308,
+    "name": "Oppo Pad Air 2",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 2
+  },
+  {
+    "id": 309,
+    "name": "Oppo Pad Air",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 2
+  },
+  {
+    "id": 310,
+    "name": "OnePlus Pad 2",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 2
+  },
+  {
+    "id": 311,
+    "name": "OnePlus Pad",
+    "imageKey": "",
+    "price": 9990000,
+    "idcategory": 2
+  },
+  {
+    "id": 312,
+    "name": "OnePlus Pad Go",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 2
+  },
+  {
+    "name": "Samsung Galaxy Tab S9",
+    "imageKey": "",
+    "price": 19990000,
+    "idcategory": 2,
+    "id": 669
+  },
+  {
+    "name": "Samsung Galaxy Tab S9 FE",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 2,
+    "id": 670
+  },
+  {
+    "name": "Samsung Galaxy Tab S6 Lite",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 2,
+    "id": 671
+  },
+  {
+    "name": "Samsung Galaxy Tab A9",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 2,
+    "id": 672
+  },
+  {
+    "name": "Samsung Galaxy Tab A9 Plus",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 2,
+    "id": 673
+  },
+  {
+    "id": 313,
+    "name": "Xiaomi Watch S5",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 3
+  },
+  {
+    "id": 314,
+    "name": "Xiaomi Watch S4",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 3
+  },
+  {
+    "id": 316,
+    "name": "Xiaomi Watch S3",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 3
+  },
+  {
+    "id": 317,
+    "name": "Xiaomi Watch 2 Pro",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 3
+  },
+  {
+    "id": 318,
+    "name": "Xiaomi Watch 2",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 3
+  },
+  {
+    "id": 319,
+    "name": "Xiaomi Smart Band 10",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 3
+  },
+  {
+    "id": 320,
+    "name": "Xiaomi Smart Band 9",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 3
+  },
+  {
+    "id": 321,
+    "name": "Xiaomi Smart Band 8",
+    "imageKey": "",
+    "price": 1090000,
+    "idcategory": 3
+  },
+  {
+    "id": 322,
+    "name": "Xiaomi Smart Band 8 Pro",
+    "imageKey": "",
+    "price": 1790000,
+    "idcategory": 3
+  },
+  {
+    "id": 324,
+    "name": "Xiaomi Redmi Watch 5",
+    "imageKey": "",
+    "price": 1790000,
+    "idcategory": 3
+  },
+  {
+    "id": 325,
+    "name": "Xiaomi Redmi Watch 5 Active",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 3
+  },
+  {
+    "id": 326,
+    "name": "Xiaomi Redmi Watch 5 Lite",
+    "imageKey": "",
+    "price": 1390000,
+    "idcategory": 3
+  },
+  {
+    "id": 327,
+    "name": "Xiaomi Redmi Watch 4",
+    "imageKey": "",
+    "price": 1690000,
+    "idcategory": 3
+  },
+  {
+    "id": 328,
+    "name": "Xiaomi Redmi Smart Band 3",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 3
+  },
+  {
+    "id": 329,
+    "name": "Xiaomi Redmi Smart Band 2",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 3
+  },
+  {
+    "id": 330,
+    "name": "Xiaomi POCO Watch 2",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 3
+  },
+  {
+    "id": 331,
+    "name": "Xiaomi POCO Watch",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 3
+  },
+  {
+    "id": 332,
+    "name": "Vivo Watch 4",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 3
+  },
+  {
+    "id": 333,
+    "name": "Vivo Watch 3",
+    "imageKey": "",
+    "price": 5490000,
+    "idcategory": 3
+  },
+  {
+    "id": 334,
+    "name": "Vivo Watch GT",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 3
+  },
+  {
+    "id": 335,
+    "name": "Vivo Watch 2",
+    "imageKey": "",
+    "price": 4490000,
+    "idcategory": 3
+  },
+  {
+    "id": 336,
+    "name": "Vivo Watch",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 3
+  },
+  {
+    "id": 337,
+    "name": "Vivo iQOO Watch GT",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 3
+  },
+  {
+    "id": 338,
+    "name": "Vivo iQOO Watch",
+    "imageKey": "",
+    "price": 4490000,
+    "idcategory": 3
+  },
+  {
+    "id": 339,
+    "name": "Oppo Watch 5",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 3
+  },
+  {
+    "id": 340,
+    "name": "Oppo Watch 4 Pro",
+    "imageKey": "",
+    "price": 6490000,
+    "idcategory": 3
+  },
+  {
+    "id": 341,
+    "name": "Oppo Watch 3 Pro",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 3
+  },
+  {
+    "id": 342,
+    "name": "Oppo Watch X",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 3
+  },
+  {
+    "id": 343,
+    "name": "Oppo Watch SE",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 3
+  },
+  {
+    "id": 344,
+    "name": "Oppo Band 3",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 3
+  },
+  {
+    "id": 345,
+    "name": "Oppo Band 2",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 3
+  },
+  {
+    "id": 346,
+    "name": "Oppo Band",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 3
+  },
+  {
+    "id": 347,
+    "name": "OnePlus Watch 3",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 3
+  },
+  {
+    "id": 348,
+    "name": "OnePlus Watch 2",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 3
+  },
+  {
+    "id": 349,
+    "name": "OnePlus Watch 2R",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 3
+  },
+  {
+    "id": 350,
+    "name": "OnePlus Nord Watch",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 3
+  },
+  {
+    "id": 351,
+    "name": "Samsung Galaxy Watch Ultra 2",
+    "imageKey": "",
+    "price": 17990000,
+    "idcategory": 3
+  },
+  {
+    "id": 352,
+    "name": "Samsung Galaxy Watch Ultra",
+    "imageKey": "",
+    "price": 15990000,
+    "idcategory": 3
+  },
+  {
+    "id": 353,
+    "name": "Samsung Galaxy Watch 7",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 3
+  },
+  {
+    "id": 354,
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "imageKey": "",
+    "price": 7990000,
+    "idcategory": 3
+  },
+  {
+    "id": 355,
+    "name": "Samsung Galaxy Watch 6",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 3
+  },
+  {
+    "id": 356,
+    "name": "Samsung Galaxy Watch 5 Pro",
+    "imageKey": "",
+    "price": 6490000,
+    "idcategory": 3
+  },
+  {
+    "id": 357,
+    "name": "Samsung Galaxy Watch 5",
+    "imageKey": "",
+    "price": 5990000,
+    "idcategory": 3
+  },
+  {
+    "id": 358,
+    "name": "Samsung Galaxy Watch FE",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 3
+  },
+  {
+    "id": 359,
+    "name": "Xiaomi Buds 6 Pro",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 4
+  },
+  {
+    "id": 360,
+    "name": "Xiaomi Buds 6",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 4
+  },
+  {
+    "id": 361,
+    "name": "Xiaomi Buds 5",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 4
+  },
+  {
+    "id": 362,
+    "name": "Xiaomi Buds 4 Pro",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 4
+  },
+  {
+    "id": 363,
+    "name": "Xiaomi Buds 3T Pro",
+    "imageKey": "",
+    "price": 2790000,
+    "idcategory": 4
+  },
+  {
+    "id": 364,
+    "name": "Xiaomi Buds 3",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 4
+  },
+  {
+    "id": 365,
+    "name": "Xiaomi Redmi Buds 6 Pro",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 366,
+    "name": "Xiaomi Redmi Buds 6",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 4
+  },
+  {
+    "id": 367,
+    "name": "Xiaomi Redmi Buds 6 Active",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 4
+  },
+  {
+    "id": 368,
+    "name": "Xiaomi Redmi Buds 6 Play",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 4
+  },
+  {
+    "id": 369,
+    "name": "Xiaomi Redmi Buds 5 Pro",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 4
+  },
+  {
+    "id": 370,
+    "name": "Xiaomi Redmi Buds 5",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 4
+  },
+  {
+    "id": 371,
+    "name": "Xiaomi Redmi Buds 4",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 4
+  },
+  {
+    "id": 372,
+    "name": "Xiaomi POCO Buds Pro",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 4
+  },
+  {
+    "id": 373,
+    "name": "Xiaomi POCO Buds",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 374,
+    "name": "Vivo TWS 5",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 4
+  },
+  {
+    "id": 375,
+    "name": "Vivo TWS 4 Hi-Fi",
+    "imageKey": "",
+    "price": 2790000,
+    "idcategory": 4
+  },
+  {
+    "id": 376,
+    "name": "Vivo TWS 4",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 4
+  },
+  {
+    "id": 377,
+    "name": "Vivo TWS 3e",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 378,
+    "name": "Vivo TWS 3 Pro",
+    "imageKey": "",
+    "price": 2790000,
+    "idcategory": 4
+  },
+  {
+    "id": 379,
+    "name": "Vivo TWS 2",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 4
+  },
+  {
+    "id": 380,
+    "name": "Vivo iQOO TWS 5",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 4
+  },
+  {
+    "id": 381,
+    "name": "Vivo iQOO TWS 4",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 4
+  },
+  {
+    "id": 382,
+    "name": "Vivo iQOO TWS 2",
+    "imageKey": "",
+    "price": 1790000,
+    "idcategory": 4
+  },
+  {
+    "id": 383,
+    "name": "Vivo iQOO TWS 1e",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 384,
+    "name": "Vivo iQOO TWS Air 2",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 4
+  },
+  {
+    "id": 385,
+    "name": "Oppo Enco X3",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 4
+  },
+  {
+    "id": 386,
+    "name": "Oppo Enco X2",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 4
+  },
+  {
+    "id": 387,
+    "name": "Oppo Enco Air 4 Pro",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 4
+  },
+  {
+    "id": 388,
+    "name": "Oppo Enco Air 4",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 389,
+    "name": "Oppo Enco Air 3 Pro",
+    "imageKey": "",
+    "price": 1690000,
+    "idcategory": 4
+  },
+  {
+    "id": 390,
+    "name": "Oppo Enco Air 3",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 4
+  },
+  {
+    "id": 391,
+    "name": "Oppo Enco Free 3",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 4
+  },
+  {
+    "id": 392,
+    "name": "OnePlus Buds Pro 3",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 4
+  },
+  {
+    "id": 393,
+    "name": "OnePlus Buds Pro 2",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 4
+  },
+  {
+    "id": 394,
+    "name": "OnePlus Buds 3",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 4
+  },
+  {
+    "id": 395,
+    "name": "OnePlus Nord Buds 3 Pro",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 396,
+    "name": "OnePlus Nord Buds 3",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 4
+  },
+  {
+    "id": 397,
+    "name": "OnePlus Buds Z2",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 398,
+    "name": "Realme Buds Air 5 Pro",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 4
+  },
+  {
+    "id": 399,
+    "name": "Realme Buds Air 6",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 4
+  },
+  {
+    "id": 400,
+    "name": "Realme Buds Air 6 Pro",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 401,
+    "name": "Realme Buds Air 8",
+    "imageKey": "",
+    "price": 1690000,
+    "idcategory": 4
+  },
+  {
+    "id": 402,
+    "name": "Realme Buds T01",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 4
+  },
+  {
+    "id": 403,
+    "name": "Realme Buds T100",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 4
+  },
+  {
+    "id": 404,
+    "name": "Realme Buds T110",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 4
+  },
+  {
+    "id": 405,
+    "name": "Realme Buds T200",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 4
+  },
+  {
+    "id": 406,
+    "name": "Realme Buds Wireless 2",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 4
+  },
+  {
+    "id": 407,
+    "name": "Realme Buds Wireless 2 Neo",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 4
+  },
+  {
+    "id": 408,
+    "name": "Realme Buds Wireless 3",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 4
+  },
+  {
+    "id": 409,
+    "name": "Realme Buds Wireless Pro",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 4
+  },
+  {
+    "id": 410,
+    "name": "Realme Buds 2",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 4
+  },
+  {
+    "id": 411,
+    "name": "Realme Buds 2 Neo",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 4
+  },
+  {
+    "id": 412,
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 4
+  },
+  {
+    "id": 413,
+    "name": "Samsung Galaxy Buds 3",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 4
+  },
+  {
+    "id": 414,
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 4
+  },
+  {
+    "id": 415,
+    "name": "Samsung Galaxy Buds FE",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 4
+  },
+  {
+    "id": 416,
+    "name": "Xiaomi Sound Pro",
+    "imageKey": "",
+    "price": 3490000,
+    "idcategory": 5
+  },
+  {
+    "id": 417,
+    "name": "Xiaomi Sound Move",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 5
+  },
+  {
+    "id": 418,
+    "name": "Xiaomi Bluetooth Speaker",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 5
+  },
+  {
+    "id": 419,
+    "name": "Xiaomi Bluetooth Speaker Mini",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 5
+  },
+  {
+    "id": 420,
+    "name": "Xiaomi Mi Portable Bluetooth Speaker 16W",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 5
+  },
+  {
+    "id": 421,
+    "name": "Xiaomi Mi Compact Bluetooth Speaker 2",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 5
+  },
+  {
+    "id": 422,
+    "name": "Xiaomi Redmi Soundbar",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 5
+  },
+  {
+    "id": 423,
+    "name": "Xiaomi Redmi Smart Speaker Play 2",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 5
+  },
+  {
+    "id": 424,
+    "name": "Vivo Wireless Bluetooth Speaker",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 5
+  },
+  {
+    "id": 425,
+    "name": "Vivo Wireless Bluetooth Speaker 2",
+    "imageKey": "",
+    "price": 1790000,
+    "idcategory": 5
+  },
+  {
+    "id": 426,
+    "name": "Oppo Wireless Speaker",
+    "imageKey": "",
+    "price": 1690000,
+    "idcategory": 5
+  },
+  {
+    "id": 427,
+    "name": "Samsung Sound Tower ST90B",
+    "imageKey": "",
+    "price": 12990000,
+    "idcategory": 5
+  },
+  {
+    "id": 428,
+    "name": "Samsung Sound Tower ST50B",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 5
+  },
+  {
+    "id": 429,
+    "name": "Samsung Sound Tower ST40B",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 5
+  },
+  {
+    "id": 430,
+    "name": "Realme Cobble Bluetooth Speaker",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 5
+  },
+  {
+    "id": 431,
+    "name": "Realme Pocket Bluetooth Speaker",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 5
+  },
+  {
+    "id": 432,
+    "name": "Realme Brick Bluetooth Speaker",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 5
+  },
+  {
+    "id": 433,
+    "name": "Xiaomi GaN Charger 210W",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 6
+  },
+  {
+    "id": 434,
+    "name": "Xiaomi GaN Charger 140W",
+    "imageKey": "",
+    "price": 1590000,
+    "idcategory": 6
+  },
+  {
+    "id": 435,
+    "name": "Xiaomi GaN Charger 120W",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 6
+  },
+  {
+    "id": 436,
+    "name": "Xiaomi GaN Charger 67W",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 6
+  },
+  {
+    "id": 437,
+    "name": "Xiaomi 6A USB-C to USB-C Cable",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 6
+  },
+  {
+    "id": 438,
+    "name": "Xiaomi 6A USB-A to USB-C Cable",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 6
+  },
+  {
+    "id": 439,
+    "name": "Xiaomi Redmi Fast Charger 120W",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 6
+  },
+  {
+    "id": 440,
+    "name": "Xiaomi Redmi Fast Charger 67W",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 6
+  },
+  {
+    "id": 441,
+    "name": "Xiaomi Redmi Fast Charger 33W",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 6
+  },
+  {
+    "id": 442,
+    "name": "Xiaomi Redmi 3A USB-C Cable",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 6
+  },
+  {
+    "id": 443,
+    "name": "Xiaomi POCO Fast Charger 120W",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 6
+  },
+  {
+    "id": 444,
+    "name": "Xiaomi POCO Fast Charger 67W",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 6
+  },
+  {
+    "id": 445,
+    "name": "Xiaomi POCO Fast Charger 33W",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 6
+  },
+  {
+    "id": 446,
+    "name": "Vivo FlashCharge 120W",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 6
+  },
+  {
+    "id": 447,
+    "name": "Vivo FlashCharge 80W",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 6
+  },
+  {
+    "id": 448,
+    "name": "Vivo FlashCharge 66W",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 6
+  },
+  {
+    "id": 449,
+    "name": "Vivo FlashCharge 44W",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 6
+  },
+  {
+    "id": 450,
+    "name": "Vivo 6A C-to-C FlashCharge Cable",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 6
+  },
+  {
+    "id": 451,
+    "name": "Vivo iQOO FlashCharge 200W",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 6
+  },
+  {
+    "id": 452,
+    "name": "Vivo iQOO FlashCharge 120W",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 6
+  },
+  {
+    "id": 453,
+    "name": "Vivo iQOO FlashCharge 80W",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 6
+  },
+  {
+    "id": 454,
+    "name": "Vivo iQOO FlashCharge 44W",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 6
+  },
+  {
+    "id": 455,
+    "name": "Vivo iQOO 6A Gaming Cable",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 6
+  },
+  {
+    "id": 456,
+    "name": "Oppo SuperVOOC 240W",
+    "imageKey": "",
+    "price": 1590000,
+    "idcategory": 6
+  },
+  {
+    "id": 457,
+    "name": "Oppo SuperVOOC 100W",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 6
+  },
+  {
+    "id": 458,
+    "name": "Oppo SuperVOOC 80W",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 6
+  },
+  {
+    "id": 459,
+    "name": "Oppo SuperVOOC 65W",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 6
+  },
+  {
+    "id": 460,
+    "name": "Oppo SuperVOOC 33W",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 6
+  },
+  {
+    "id": 461,
+    "name": "Oppo SuperVOOC 6A Type-C Cable",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 6
+  },
+  {
+    "id": 462,
+    "name": "OnePlus SuperVOOC 125W",
+    "imageKey": "",
+    "price": 1390000,
+    "idcategory": 6
+  },
+  {
+    "id": 463,
+    "name": "OnePlus SuperVOOC 100W",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 6
+  },
+  {
+    "id": 464,
+    "name": "OnePlus SuperVOOC 80W",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 6
+  },
+  {
+    "id": 465,
+    "name": "OnePlus SuperVOOC 65W",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 6
+  },
+  {
+    "id": 466,
+    "name": "OnePlus Warp Charge Cable",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 6
+  },
+  {
+    "id": 467,
+    "name": "OnePlus Type-C to Type-C Cable",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 6
+  },
+  {
+    "id": 468,
+    "name": "Samsung Power Adapter 65W Trio",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 6
+  },
+  {
+    "id": 469,
+    "name": "Samsung Power Adapter 45W",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 6
+  },
+  {
+    "id": 470,
+    "name": "Samsung Power Adapter 25W",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 6
+  },
+  {
+    "id": 471,
+    "name": "Samsung Power Adapter 15W",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 6
+  },
+  {
+    "id": 472,
+    "name": "Samsung 5A C-to-C Cable",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 6
+  },
+  {
+    "id": 473,
+    "name": "Samsung 3A C-to-C Cable",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 6
+  },
+  {
+    "id": 474,
+    "name": "Xiaomi Power Bank 25000 212W",
+    "imageKey": "",
+    "price": 2190000,
+    "idcategory": 7
+  },
+  {
+    "id": 475,
+    "name": "Xiaomi Power Bank 20000 50W",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 7
+  },
+  {
+    "id": 476,
+    "name": "Xiaomi Power Bank 10000 33W",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 7
+  },
+  {
+    "id": 477,
+    "name": "Xiaomi Magnetic Power Bank 2",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 7
+  },
+  {
+    "id": 478,
+    "name": "Xiaomi Ultra Thin Power Bank 5000",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 7
+  },
+  {
+    "id": 479,
+    "name": "Xiaomi Redmi Fast Charge Power Bank 20000",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 7
+  },
+  {
+    "id": 480,
+    "name": "Xiaomi Redmi Power Bank 20000",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 7
+  },
+  {
+    "id": 481,
+    "name": "Xiaomi Redmi Power Bank 10000",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 7
+  },
+  {
+    "id": 482,
+    "name": "Xiaomi Redmi Power Bank 10000 Slim",
+    "imageKey": "",
+    "price": 350000,
+    "idcategory": 7
+  },
+  {
+    "id": 483,
+    "name": "Vivo Flash Charge Power Bank 80W",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 7
+  },
+  {
+    "id": 484,
+    "name": "Vivo Flash Charge Power Bank 44W",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 7
+  },
+  {
+    "id": 485,
+    "name": "Vivo Flash Charge Power Bank 33W",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 7
+  },
+  {
+    "id": 486,
+    "name": "Vivo iQOO Flash Charge Power Bank 44W",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 7
+  },
+  {
+    "id": 487,
+    "name": "Vivo iQOO Flash Charge Power Bank 33W",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 7
+  },
+  {
+    "id": 488,
+    "name": "Oppo SuperVOOC Power Bank 80W",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 7
+  },
+  {
+    "id": 489,
+    "name": "Oppo SuperVOOC Power Bank 50W",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 7
+  },
+  {
+    "id": 490,
+    "name": "Oppo SuperVOOC Power Bank 33W",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 7
+  },
+  {
+    "id": 491,
+    "name": "OnePlus Magnetic Power Bank",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 7
+  },
+  {
+    "id": 492,
+    "name": "OnePlus Power Bank 10000",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 7
+  },
+  {
+    "id": 493,
+    "name": "Samsung Battery Pack 45W 20000",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 7
+  },
+  {
+    "id": 494,
+    "name": "Samsung Battery Pack 25W 10000",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 7
+  },
+  {
+    "id": 495,
+    "name": "Samsung Wireless Battery Pack 10000",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 7
+  },
+  {
+    "id": 496,
+    "name": "Samsung Battery Pack 10000",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 7
+  },
+  {
+    "id": 497,
+    "name": "Ốp lưng Từ tính Xiaomi 16 Ultra",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 8
+  },
+  {
+    "id": 498,
+    "name": "Ốp lưng Sợi Carbon Xiaomi 16 Pro",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 8
+  },
+  {
+    "id": 499,
+    "name": "Ốp lưng Silicone Xiaomi 16",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 500,
+    "name": "Ốp lưng Trong suốt Xiaomi 15T Pro",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 501,
+    "name": "Ốp lưng Trong suốt Redmi Note 15 Pro Plus",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 502,
+    "name": "Ốp lưng Chống sốc Redmi Note 15 Pro",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 503,
+    "name": "Ốp lưng Silicone Redmi Note 15",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 504,
+    "name": "Ốp lưng TPU Redmi 14C",
+    "imageKey": "",
+    "price": 120000,
+    "idcategory": 8
+  },
+  {
+    "id": 505,
+    "name": "Ốp lưng Liquid Silicone POCO F8 Pro",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 506,
+    "name": "Ốp lưng Tản nhiệt POCO X8 Pro",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 8
+  },
+  {
+    "id": 507,
+    "name": "Ốp lưng Trong suốt POCO F7",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 508,
+    "name": "Ốp lưng Chống sốc POCO M7 Pro",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 509,
+    "name": "Ốp lưng Nhám Vivo X200 Pro",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 510,
+    "name": "Ốp lưng Silicone Vivo X200",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 511,
+    "name": "Ốp lưng Trong suốt Vivo V50 Pro",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 512,
+    "name": "Ốp lưng Liquid Silicone Vivo T4",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 513,
+    "name": "Ốp lưng Tản nhiệt Gaming Vivo iQOO 15 Pro",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 8
+  },
+  {
+    "id": 514,
+    "name": "Ốp lưng Chống sốc Vivo iQOO Neo 11",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 515,
+    "name": "Ốp lưng Trong suốt Vivo iQOO Z11",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 516,
+    "name": "Ốp lưng Silicone Vivo iQOO 13",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 517,
+    "name": "Ốp lưng MagSafe Oppo Find X9 Ultra",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 8
+  },
+  {
+    "id": 518,
+    "name": "Ốp lưng Trong suốt Oppo Find X9",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 519,
+    "name": "Ốp lưng Silicone Oppo Reno 15 Pro Plus",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 520,
+    "name": "Ốp lưng Thời trang Oppo Reno 15",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 521,
+    "name": "Ốp lưng Sợi Kevlar Oppo Find N7",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 8
+  },
+  {
+    "id": 522,
+    "name": "Ốp lưng Clear Case Oppo Find N7 Flip",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 523,
+    "name": "Ốp lưng Chống sốc Oppo A5 Pro",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 524,
+    "name": "Ốp lưng Sandstone OnePlus 15 Pro",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 8
+  },
+  {
+    "id": 525,
+    "name": "Ốp lưng Karbon OnePlus 15",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 8
+  },
+  {
+    "id": 526,
+    "name": "Ốp lưng Trong suốt OnePlus Nord 5",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 527,
+    "name": "Ốp lưng Silicone OnePlus 13R",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 528,
+    "name": "Ốp lưng Tản nhiệt Realme GT 7 Pro",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 8
+  },
+  {
+    "id": 529,
+    "name": "Ốp lưng Silicone Realme 14 Pro Plus",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 530,
+    "name": "Ốp lưng Trong suốt Realme 13 Pro",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 531,
+    "name": "Ốp lưng Chống sốc Realme C75",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 532,
+    "name": "Ốp lưng Silicone Samsung Galaxy S26 Ultra",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 8
+  },
+  {
+    "id": 533,
+    "name": "Ốp lưng Clear Case Samsung Galaxy S26 Plus",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 534,
+    "name": "Ốp lưng Nhám Samsung Galaxy S26",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 535,
+    "name": "Ốp lưng Chống sốc Samsung Galaxy S25 FE",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 536,
+    "name": "Ốp lưng MagSafe Samsung Galaxy S24 Ultra",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 8
+  },
+  {
+    "id": 537,
+    "name": "Ốp lưng Carbon Samsung Galaxy Z Fold 8",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 8
+  },
+  {
+    "id": 538,
+    "name": "Ốp lưng Trong suốt Samsung Galaxy Z Flip 8",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 8
+  },
+  {
+    "id": 539,
+    "name": "Ốp lưng TPU Samsung Galaxy A57",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 8
+  },
+  {
+    "id": 540,
+    "name": "Kính Cường Lực HD Clear Samsung Galaxy S26 Ultra",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 9
+  },
+  {
+    "id": 541,
+    "name": "Kính Cường Lực HD Clear Samsung Galaxy S26 Plus",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 9
+  },
+  {
+    "id": 542,
+    "name": "Kính Cường Lực HD Clear Xiaomi 16 Ultra",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 9
+  },
+  {
+    "id": 543,
+    "name": "Kính Cường Lực HD Clear Oppo Find X9 Ultra",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 9
+  },
+  {
+    "id": 544,
+    "name": "Kính Cường Lực HD Clear Vivo X200 Pro",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 9
+  },
+  {
+    "id": 545,
+    "name": "Kính Cường Lực HD Clear OnePlus 13",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 9
+  },
+  {
+    "id": 546,
+    "name": "Kính Cường Lực HD Clear Realme GT 7 Pro",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 9
+  },
+  {
+    "id": 547,
+    "name": "Kính Cường Lực Gaming Matte Samsung Galaxy S25 FE",
+    "imageKey": "",
+    "price": 220000,
+    "idcategory": 9
+  },
+  {
+    "id": 548,
+    "name": "Kính Cường Lực Gaming Matte POCO F8 Pro",
+    "imageKey": "",
+    "price": 220000,
+    "idcategory": 9
+  },
+  {
+    "id": 549,
+    "name": "Kính Cường Lực Gaming Matte iQOO 15",
+    "imageKey": "",
+    "price": 220000,
+    "idcategory": 9
+  },
+  {
+    "id": 550,
+    "name": "Kính Cường Lực Gaming Matte iQOO Neo 10",
+    "imageKey": "",
+    "price": 220000,
+    "idcategory": 9
+  },
+  {
+    "id": 551,
+    "name": "Kính Cường Lực Gaming Matte Realme 14 Pro Plus",
+    "imageKey": "",
+    "price": 220000,
+    "idcategory": 9
+  },
+  {
+    "id": 552,
+    "name": "Kính Cường Lực Gaming Matte Xiaomi 16",
+    "imageKey": "",
+    "price": 220000,
+    "idcategory": 9
+  },
+  {
+    "id": 553,
+    "name": "Kính Cường Lực Privacy Samsung Galaxy S26",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 9
+  },
+  {
+    "id": 554,
+    "name": "Kính Cường Lực Privacy Oppo Reno 15 Pro Plus",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 9
+  },
+  {
+    "id": 555,
+    "name": "Kính Cường Lực Privacy Redmi Note 15 Pro",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 9
+  },
+  {
+    "id": 556,
+    "name": "Kính Cường Lực Privacy OnePlus Nord 5",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 9
+  },
+  {
+    "id": 557,
+    "name": "Kính Cường Lực Privacy Vivo V50 Pro",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 9
+  },
+  {
+    "id": 558,
+    "name": "Miếng Dán PPF Samsung Galaxy Z Fold 8",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 9
+  },
+  {
+    "id": 559,
+    "name": "Miếng Dán PPF Samsung Galaxy Z Flip 8",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 9
+  },
+  {
+    "id": 560,
+    "name": "Miếng Dán PPF Oppo Find N7",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 9
+  },
+  {
+    "id": 561,
+    "name": "Miếng Dán PPF Oppo Find N7 Flip",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 9
+  },
+  {
+    "id": 562,
+    "name": "Miếng Dán PPF OnePlus Open 2",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 9
+  },
+  {
+    "id": 563,
+    "name": "Miếng Dán PPF Xiaomi Mix Fold 5",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 9
+  },
+  {
+    "id": 564,
+    "name": "Miếng Dán PPF Vivo X Fold 5",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 9
+  },
+  {
+    "id": 565,
+    "name": "Samsung S Pen Pro",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 10
+  },
+  {
+    "id": 566,
+    "name": "Samsung S Pen Creator Edition",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 10
+  },
+  {
+    "id": 567,
+    "name": "Samsung Galaxy Tab S10 Ultra Book Cover Keyboard",
+    "imageKey": "",
+    "price": 4990000,
+    "idcategory": 10
+  },
+  {
+    "id": 568,
+    "name": "Samsung Galaxy Tab S10 Plus Book Cover Keyboard",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 10
+  },
+  {
+    "id": 569,
+    "name": "Xiaomi Focus Pen",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 10
+  },
+  {
+    "id": 570,
+    "name": "Xiaomi Smart Pen Gen 2",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 10
+  },
+  {
+    "id": 571,
+    "name": "Xiaomi Pad 6S Pro Touchpad Keyboard",
+    "imageKey": "",
+    "price": 3290000,
+    "idcategory": 10
+  },
+  {
+    "id": 572,
+    "name": "Xiaomi Pad 6 Keyboard",
+    "imageKey": "",
+    "price": 1990000,
+    "idcategory": 10
+  },
+  {
+    "id": 573,
+    "name": "Oppo Pencil 2",
+    "imageKey": "",
+    "price": 1690000,
+    "idcategory": 10
+  },
+  {
+    "id": 574,
+    "name": "Oppo Pad 3 Pro Smart Keyboard",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 10
+  },
+  {
+    "id": 575,
+    "name": "Vivo Pencil 2",
+    "imageKey": "",
+    "price": 1690000,
+    "idcategory": 10
+  },
+  {
+    "id": 576,
+    "name": "Vivo Pad Keyboard",
+    "imageKey": "",
+    "price": 2490000,
+    "idcategory": 10
+  },
+  {
+    "id": 577,
+    "name": "OnePlus Stylo 2",
+    "imageKey": "",
+    "price": 1690000,
+    "idcategory": 10
+  },
+  {
+    "id": 578,
+    "name": "OnePlus Pad 2 Smart Keyboard",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 10
+  },
+  {
+    "id": 579,
+    "name": "Baseus Smooth Writing Stylus",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 10
+  },
+  {
+    "id": 580,
+    "name": "Goojodoq Stylus Pen Gen 13",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 10
+  },
+  {
+    "id": 581,
+    "name": "Goojodoq Stylus Pen Gen 12",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 10
+  },
+  {
+    "id": 582,
+    "name": "Nillkin Crayon K2",
+    "imageKey": "",
+    "price": 450000,
+    "idcategory": 10
+  },
+  {
+    "id": 583,
+    "name": "Logitech K380s",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 10
+  },
+  {
+    "id": 584,
+    "name": "Logitech K480",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 10
+  },
+  {
+    "id": 585,
+    "name": "Logitech Keys-To-Go 2",
+    "imageKey": "",
+    "price": 1790000,
+    "idcategory": 10
+  },
+  {
+    "id": 586,
+    "name": "Baseus Creator Wireless Keyboard",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 10
+  },
+  {
+    "id": 587,
+    "name": "Bow HB318",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 10
+  },
+  {
+    "id": 588,
+    "name": "DJI Osmo Mobile 6",
+    "imageKey": "",
+    "price": 3290000,
+    "idcategory": 11
+  },
+  {
+    "id": 589,
+    "name": "DJI Osmo Mobile SE",
+    "imageKey": "",
+    "price": 2390000,
+    "idcategory": 11
+  },
+  {
+    "id": 590,
+    "name": "Insta360 Flow",
+    "imageKey": "",
+    "price": 3690000,
+    "idcategory": 11
+  },
+  {
+    "id": 591,
+    "name": "Zhiyun Smooth 5S",
+    "imageKey": "",
+    "price": 4190000,
+    "idcategory": 11
+  },
+  {
+    "id": 592,
+    "name": "Hohem iSteady M6",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 11
+  },
+  {
+    "id": 593,
+    "name": "Xiaomi Mi Selfie Stick Tripod",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 11
+  },
+  {
+    "id": 594,
+    "name": "Yunteng VCT 5208",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 11
+  },
+  {
+    "id": 595,
+    "name": "Ulanzi MT 44",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 11
+  },
+  {
+    "id": 596,
+    "name": "Ulanzi MT 33",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 11
+  },
+  {
+    "id": 597,
+    "name": "Baseus Mini Bluetooth Folding Tripod",
+    "imageKey": "",
+    "price": 350000,
+    "idcategory": 11
+  },
+  {
+    "id": 598,
+    "name": "DJI Mic 2",
+    "imageKey": "",
+    "price": 8990000,
+    "idcategory": 11
+  },
+  {
+    "id": 599,
+    "name": "Rode Wireless PRO",
+    "imageKey": "",
+    "price": 11990000,
+    "idcategory": 11
+  },
+  {
+    "id": 600,
+    "name": "Rode Wireless GO II",
+    "imageKey": "",
+    "price": 6990000,
+    "idcategory": 11
+  },
+  {
+    "id": 601,
+    "name": "Saramonic Blink 500 ProX",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 11
+  },
+  {
+    "id": 602,
+    "name": "Boya BY V20",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 11
+  },
+  {
+    "id": 603,
+    "name": "SanDisk Extreme Pro MicroSDXC 256GB",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 12
+  },
+  {
+    "id": 604,
+    "name": "Samsung EVO Plus MicroSDXC 512GB",
+    "imageKey": "",
+    "price": 1190000,
+    "idcategory": 12
+  },
+  {
+    "id": 605,
+    "name": "Kingston Canvas Go Plus MicroSD 128GB",
+    "imageKey": "",
+    "price": 390000,
+    "idcategory": 12
+  },
+  {
+    "id": 606,
+    "name": "Lexar Professional 1066x MicroSD 256GB",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 12
+  },
+  {
+    "id": 607,
+    "name": "Samsung PRO Plus MicroSDXC 256GB",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 12
+  },
+  {
+    "id": 608,
+    "name": "SanDisk Ultra Dual Drive Luxe Type C",
+    "imageKey": "",
+    "price": 490000,
+    "idcategory": 12
+  },
+  {
+    "id": 609,
+    "name": "Kingston DataTraveler Max Type C",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 12
+  },
+  {
+    "id": 610,
+    "name": "Samsung Type C USB Flash Drive",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 12
+  },
+  {
+    "id": 611,
+    "name": "Baseus Type C OTG Adapter",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 12
+  },
+  {
+    "id": 612,
+    "name": "Ugreen USB C OTG Adapter",
+    "imageKey": "",
+    "price": 190000,
+    "idcategory": 12
+  },
+  {
+    "id": 613,
+    "name": "Samsung T9 Portable SSD",
+    "imageKey": "",
+    "price": 3990000,
+    "idcategory": 12
+  },
+  {
+    "id": 614,
+    "name": "Samsung T7 Shield Portable SSD",
+    "imageKey": "",
+    "price": 2990000,
+    "idcategory": 12
+  },
+  {
+    "id": 615,
+    "name": "SanDisk Extreme Portable SSD V2",
+    "imageKey": "",
+    "price": 3190000,
+    "idcategory": 12
+  },
+  {
+    "id": 616,
+    "name": "Kingston XS2000 Portable SSD",
+    "imageKey": "",
+    "price": 2890000,
+    "idcategory": 12
+  },
+  {
+    "id": 617,
+    "name": "WD My Passport SSD",
+    "imageKey": "",
+    "price": 2790000,
+    "idcategory": 12
+  },
+  {
+    "id": 618,
+    "name": "Xiaomi Smart Camera C500 Pro",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 13
+  },
+  {
+    "id": 619,
+    "name": "Xiaomi Outdoor Camera AW300",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 13
+  },
+  {
+    "id": 620,
+    "name": "TP Link Tapo C225",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 13
+  },
+  {
+    "id": 621,
+    "name": "TP Link Tapo C320WS",
+    "imageKey": "",
+    "price": 1390000,
+    "idcategory": 13
+  },
+  {
+    "id": 622,
+    "name": "Ezviz C6N",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 13
+  },
+  {
+    "id": 623,
+    "name": "Ezviz H8c",
+    "imageKey": "",
+    "price": 1590000,
+    "idcategory": 13
+  },
+  {
+    "id": 624,
+    "name": "Xiaomi Router AX3000T",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 13
+  },
+  {
+    "id": 625,
+    "name": "TP Link Archer AX53",
+    "imageKey": "",
+    "price": 1790000,
+    "idcategory": 13
+  },
+  {
+    "id": 626,
+    "name": "Asus RT AX58U",
+    "imageKey": "",
+    "price": 3290000,
+    "idcategory": 13
+  },
+  {
+    "id": 627,
+    "name": "Huawei WiFi AX3 Pro",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 13
+  },
+  {
+    "id": 628,
+    "name": "Xiaomi Smart Bulb Essential",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 13
+  },
+  {
+    "id": 629,
+    "name": "Xiaomi Smart Plug 2",
+    "imageKey": "",
+    "price": 350000,
+    "idcategory": 13
+  },
+  {
+    "id": 630,
+    "name": "TP Link Tapo P100 Smart Plug",
+    "imageKey": "",
+    "price": 290000,
+    "idcategory": 13
+  },
+  {
+    "id": 631,
+    "name": "Xiaomi Temperature & Humidity Sensor",
+    "imageKey": "",
+    "price": 250000,
+    "idcategory": 13
+  },
+  {
+    "id": 632,
+    "name": "RedMagic Magnetic Cooler 5 Pro",
+    "imageKey": "",
+    "price": 1290000,
+    "idcategory": 14
+  },
+  {
+    "id": 633,
+    "name": "Black Shark Magnetic Cooler 3 Pro",
+    "imageKey": "",
+    "price": 1090000,
+    "idcategory": 14
+  },
+  {
+    "id": 634,
+    "name": "iQOO Magnetic Cooling Back Clip 2",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 14
+  },
+  {
+    "id": 635,
+    "name": "Flydigi B6X Cooling Fan",
+    "imageKey": "",
+    "price": 790000,
+    "idcategory": 14
+  },
+  {
+    "id": 636,
+    "name": "Memo DL88 Mobile Cooler",
+    "imageKey": "",
+    "price": 590000,
+    "idcategory": 14
+  },
+  {
+    "id": 637,
+    "name": "Baseus 6 in 1 USB C Hub",
+    "imageKey": "",
+    "price": 690000,
+    "idcategory": 14
+  },
+  {
+    "id": 638,
+    "name": "Ugreen 7 in 1 USB C Hub",
+    "imageKey": "",
+    "price": 890000,
+    "idcategory": 14
+  },
+  {
+    "id": 639,
+    "name": "Anker PowerExpand Plus 7 in 1",
+    "imageKey": "",
+    "price": 1490000,
+    "idcategory": 14
+  },
+  {
+    "id": 640,
+    "name": "Baseus 8 in 1 USB C Hub",
+    "imageKey": "",
+    "price": 990000,
+    "idcategory": 14
+  },
+  {
+    "id": 641,
+    "name": "Sửa Màn Hình & Cảm Ứng",
+    "imageKey": "",
+    "price": 500000,
+    "idcategory": 15
+  },
+  {
+    "id": 642,
+    "name": "Thay Pin & Sửa Nguồn Thiết Bị",
+    "imageKey": "",
+    "price": 400000,
+    "idcategory": 15
+  },
+  {
+    "id": 643,
+    "name": "Sửa Camera & Âm Thanh",
+    "imageKey": "",
+    "price": 350000,
+    "idcategory": 15
+  },
+  {
+    "id": 644,
+    "name": "Sửa Cổng Sạc & Kết Nối",
+    "imageKey": "",
+    "price": 300000,
+    "idcategory": 15
+  },
+  {
+    "id": 645,
+    "name": "Sửa Mainboard & Phần Cứng",
+    "imageKey": "",
+    "price": 900000,
+    "idcategory": 15
+  },
+  {
+    "id": 646,
+    "name": "Cài Đặt Hệ Điều Hành & Phần Mềm",
+    "imageKey": "",
+    "price": 200000,
+    "idcategory": 15
+  },
+  {
+    "id": 647,
+    "name": "Vệ Sinh & Bảo Dưỡng Thiết Bị",
+    "imageKey": "",
+    "price": 150000,
+    "idcategory": 15
+  },
+  {
+    "id": 648,
+    "name": "Phục Hồi Dữ Liệu",
+    "imageKey": "",
+    "price": 800000,
+    "idcategory": 15
+  },
+  {
+    "id": 649,
+    "name": "Kiểm Tra & Chẩn Đoán Lỗi",
+    "imageKey": "",
+    "price": 100000,
+    "idcategory": 15
+  },
+  {
+    "id": 650,
+    "name": "Nâng Cấp Linh Kiện Thiết Bị",
+    "imageKey": "",
+    "price": 600000,
+    "idcategory": 15
+  }
+]
